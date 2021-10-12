@@ -9,18 +9,18 @@
 
 .navbar {
   font-family: "Open Sans", sans-serif !important;
-  color: rgb(255, 255, 255) !important;
+  color: rgb(180, 119, 87) !important;
   background-color: rgba(228, 228, 228, 0.85);
 }
 
 .navbar-brand {
   font-family: "Open Sans", sans-serif !important;
-  color: #4f689e !important;
+  color: #3485a0 !important;
   font-weight: bolder;
 }
 
 .nav-link {
-  color: rgb(79, 104, 158) !important;
+  color: rgb(52, 133, 160) !important;
 }
 
 .nav-link:active {
